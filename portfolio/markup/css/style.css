@@ -1,0 +1,84 @@
+body{
+    background: #ccc;
+}
+#Header a:hover{
+    color: #fff;
+}
+#bg-img{
+    background: url("../images/pexels-photo-1229861.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#About{
+    margin-top: -200px;
+}
+#About .fa{
+    color: #fff;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+#skills span{
+    padding: 10px 20px 10px 20px;
+
+}
+#skills hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+#Experience span{
+    padding: 10px 20px 10px 20px;
+}
+#Experience hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+#Experience .card{
+    border-top: 3px solid red; 
+}
+#Contact span{
+    padding: 10px 20px 10px 20px;
+}
+#Contact hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+#box{
+    width: 70%;
+    height: 200px;
+    border: 1px solid #000;
+    padding: auto;
+    background: pink;
+    overflow: auto;
+    margin-left: 120px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+#box span{
+    padding: 10px 20px 10px 20px;
+}
+#box hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+#form span{
+    padding: 10px 20px 10px 20px;
+}
+#form hr{
+    border-width:3px; 
+    margin-top: 5px;
+}
+.red{
+    color: red;
+}
+.first{
+    background: tan;
+}
+.second{
+    background: pink;
+}
